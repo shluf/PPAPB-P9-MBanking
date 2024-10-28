@@ -7,13 +7,13 @@
     <item
         android:id="@+id/inboxFragment"
         android:icon="@drawable/baseline_restore_24"
-        android:title="Keranjang" />
+        android:title="Mutasi" />
     <item
         android:id="@+id/mutationFragment"
         android:icon="@drawable/baseline_inbox_24"
-        android:title="Profile" />
+        android:title="Inbox" />
     <item
         android:id="@+id/profileFragment"
         android:icon="@drawable/baseline_account_circle_24"
-        android:title="Keranjang" />
+        android:title="Profile" />
 </menu>
